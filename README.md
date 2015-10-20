@@ -48,7 +48,7 @@ We don't require students to participate in formal conduct training. Rather we r
 - A high-five are most welcome, as both parties are opting in. Avoid surprise hugs, back rubs, and general one-directional physical contact.
 - If someone solicits feedback, focus on the material. Do not comment on physical appearance. 
 - In a learning environment, you'll find you have knowledge or insight someone else has not yet attained. Do not make others feel bad for not yet learning what you may find obvious. Avoid statements like "You haven't heard of Foo library?!?!?!", or "Uh, obviously, you should just concat the strings."
-- Our community constitues folks from a wide array of backgrounds. This is a great strenth. Talk to people about thier background and histories as a learner and a listener. "Tell me more about that," is a better option than "Well, that's not what I experienced."
+- Our community constitues folks from a wide array of backgrounds. This is a great strenth. Talk to people about their background and histories as a learner and a listener. "Tell me more about that," is a better option than "Well, that's not what I experienced."
 
 ## Reporting Issues
 
