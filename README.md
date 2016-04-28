@@ -12,8 +12,8 @@ While kindness can be generally understood, we recognize that kindness in a prof
 - **Be welcoming**: We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes but is not limited to members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
 - **Be considerate**: Your work will be used by other people, and you in turn will depend on the work of others. Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions. Remember that we’re a world-wide community, so you might not be communicating in someone else’s primary language.
 - **Be respectful**: Not all of us will agree all of the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one.
-- **Be careful in the words that we choose**: We are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants.
-- **Try to understand why we disagree**: Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of our community comes from its diversity—people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
+- **Be careful in the words that we choose**: We are a community of professionals, and we conduct ourselves professionally. Be kind to others both within the community, and beyond the community. Do not insult, minimize, marginalize, or put down other participants, cultures, or sub-cultures.
+- **Try to understand why we disagree**: Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of our community comes from its diversity&mdash;people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
 - **Harassment and exclusionary behavior aren’t acceptable.**
 
 ## Definitions
@@ -48,7 +48,7 @@ We don't require students to participate in formal conduct training. Rather, we 
 - A high-five is most welcome, as both parties are opting in. Avoid surprise hugs, back rubs, and general one-directional physical contact.
 - If someone solicits feedback, focus on the material. Do not comment on physical appearance.
 - In a learning environment, you'll find you have knowledge or insight someone else has not yet attained. Do not make others feel bad for not yet learning what you may find obvious. Avoid statements like "You haven't heard of Foo library?!?!?!", or "Uh, obviously, you should just concat the strings."
-- Our community constitutes folks from a wide array of backgrounds. This is a great strenth. Talk to people about their backgrounds and histories as a learner and a listener. "Tell me more about that," is a better option than "Well, that's not what I experienced."
+- Our community constitutes folks from a wide array of backgrounds. This is a great strength. Talk to people about their backgrounds and histories as a learner and a listener. "Tell me more about that," is a better option than "Well, that's not what I experienced."
 
 ## Reporting Issues
 
@@ -65,7 +65,7 @@ If you experience or witness unacceptable behavior—or have any other concerns�
 
 - Your contact information.
 - Names (real, nicknames, or pseudonyms) of any individuals involved. If there are additional witnesses, please include them as well.
-- Your account of what occurred and if you believe the incident is ongoing. If there is a publicly available record (e.g. a mailing list archive or a public IRC logger), please include a link.
+- Your account of what occurred and if you believe the incident is ongoing. If there is a publicly available record (e.g. Slack channel, a mailing list archive or a public IRC logger), please include a link, reference, or screenshot.
 - Any additional information that may be helpful.
 
 After filing a report, a representative will contact you personally, review the incident, follow up with any additional questions, and make a decision as to how to respond.
