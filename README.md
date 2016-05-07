@@ -32,7 +32,7 @@ Harassment includes, but is not limited to:
 - Stalking or following
 - Harassing photography or recording, including logging online activity for harassment purposes
 - Sustained disruption of discussion
-- Unwelcome sexual attention, including gratuitous or off-topic sexual images or behaviour
+- Unwelcome sexual attention, including gratuitous or off-topic sexual images or behavior
 - Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
 - Continued one-on-one communication after requests to cease
 - Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect others from intentional abuse
@@ -43,7 +43,7 @@ We encourage everyone to participate and are committed to building a community f
 
 ## Examples
 
-We don't require students to participate in formal conduct training. Rather, we rely on common sense and a committment to follow these guidelines. To provide greater clarity, here are some examples of how this should be interpreted:
+We don't require students to participate in formal conduct training. Rather, we rely on common sense and a commitment to follow these guidelines. To provide greater clarity, here are some examples of how this should be interpreted:
 
 - A high-five is most welcome, as both parties are opting in. Avoid surprise hugs, back rubs, and general one-directional physical contact.
 - If someone solicits feedback, focus on the material. Do not comment on physical appearance.
