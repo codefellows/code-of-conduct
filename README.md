@@ -23,12 +23,6 @@ While kindness can be generally understood, we recognize that kindness in a prof
 
 ## Definitions
 
-### Plagiarism
-
-Plagiarism is the re-use of someone else's code, without the permission or license of the author. Claiming someone else's work as your own is disrespectful to the author and to your learning process. "Cargo culting," or utilizing the techniques of another without applying your own thinking, is also considered plagiarism.
-
-Violating the terms of a license in a professional software development setting can result in lawsuits and endanger businesses. Doing so in the classroom can result in loss of assignment points, bad references from instructors, removal from all Code Fellows courses, and community bans. Consequences will depend on severity and are at the discretion of the conduct review panel.
-
 ### Attribution
 
 We encourage an open-source work ethic, and we solve problems collaboratively. The difference between properly attributed work and plagiarized submissions is found in citing source material and permission of the original author.
@@ -36,6 +30,12 @@ We encourage an open-source work ethic, and we solve problems collaboratively. T
 Proper attribution includes a description of what code was used or what help was given. A link back to the original source material or ideas should be included whenever possible. This belongs in a section titled "Attributions" of the README file for the relevant code.
 
 Please note: an online code repository that has no license is presumed to be closed source and should not be used as a reference. Please include a license file in your own publicly published code.
+
+### Plagiarism
+
+Plagiarism is the re-use of someone else's code, without the permission or license of the author. Claiming someone else's work as your own is disrespectful to the author and to your learning process. "Cargo culting," or utilizing the techniques of another without applying your own thinking, is also considered plagiarism.
+
+Violating the terms of a license in a professional software development setting can result in lawsuits and endanger businesses. Doing so in the classroom can result in loss of assignment points, bad references from instructors, removal from all Code Fellows courses, and community bans. Consequences will depend on severity and are at the discretion of the conduct review panel.
 
 ### Harassment
 
