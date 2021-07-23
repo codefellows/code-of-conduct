@@ -7,26 +7,21 @@ Anyone who violates this code of conduct may be immediately removed from any cur
 
 ## Community Goal: Be Kind
 
-Our community of staff, instructors, and current &amp; former students strives to be kind. This is the guiding principle for conducting oneself within the Code Fellows community.
+Our community of staff, instructors, students, and alumni strives to be kind. This is the guiding principle for conducting oneself within the Code Fellows community.
 
 While kindness can be generally understood, we recognize that kindness in a professional setting means (but is not limited to):
 
 - **Be friendly and patient**
 - **Be welcoming**: We strive to be a community who welcomes and supports people of all backgrounds and identities. This includes, but is not limited to, members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
 - **Be considerate**: Your work will be used by other people and you in turn will depend on the work of others. Any decision you take will affect users and colleagues and you should take those consequences into account when making decisions. Remember that we’re a worldwide community, so you might not be communicating in someone else’s primary language.
-- **Give attribution, engage honestly**: Since our code often depends on the work and assistance of others, we will be sure to give proper attribution. As members of the community, we agree to represent ourselves truthfully, claim only work that is our own, properly attribute collaborations, and engage honestly in all assignments.
+- **Give attribution, engage honestly**: Since the quality of our work often depends on the contributions of others, we strive to give proper attribution. As members of the community, we agree to represent ourselves truthfully, claim only work that is our own, properly attribute collaborations, and engage honestly in all assignments.
 - **Be respectful**: Not all of us will agree all of the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one. Your presence may not impact other's ability to learn.
 - **Be careful in the words that we choose**: We are a community of learning professionals and we conduct ourselves professionally. Be kind to others both within the community and beyond the community. Do not insult, minimize, marginalize, or put down other participants, cultures, or sub-cultures. Contribute positively to the learning environment. 
-- **Try to understand why we disagree**: Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of our community comes from its diversity&mdash;people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
+- **Be a professional**: Practice the use of professional language when interacting with the community. Your actions are a reflection of your character, and should positively reflect a high level of professional integrity. Avoid the use of slang, innuendo, and profanity.
+- **Try to understand why we disagree**: Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. It is human to err; focus on exercising healthy conflict resolution techniques whenever possible.
 - **Harassment and exclusionary behavior aren’t acceptable.**
 
 ## Definitions
-
-### Plagiarism
-
-Plagiarism is the re-use of someone else's code, without the permission or license of the author. Claiming someone else's work as your own is disrespectful to the author and to your learning process. "Cargo culting," or utilizing the techniques of another without applying your own thinking, is also considered plagiarism.
-
-Violating the terms of a license in a professional software development setting can result in lawsuits and endanger businesses. Doing so in the classroom can result in loss of assignment points, bad references from instructors, removal from all Code Fellows courses, and community bans. Consequences will depend on severity and are at the discretion of the conduct review panel.
 
 ### Attribution
 
@@ -35,6 +30,12 @@ We encourage an open-source work ethic, and we solve problems collaboratively. T
 Proper attribution includes a description of what code was used or what help was given. A link back to the original source material or ideas should be included whenever possible. This belongs in a section titled "Attributions" of the README file for the relevant code.
 
 Please note: an online code repository that has no license is presumed to be closed source and should not be used as a reference. Please include a license file in your own publicly published code.
+
+### Plagiarism
+
+Plagiarism is the re-use of someone else's work (eg: any code, writing, assignment solution, etc), without the permission or license of the author. Claiming someone else's work as your own is disrespectful to the author and to your learning process. "Cargo culting," or utilizing the techniques of another without applying your own thinking, is also considered plagiarism.
+
+Violating the terms of a license in a professional setting can result in lawsuits and endanger businesses. Doing so in the classroom can result in loss of assignment points, bad references from instructors, removal from all Code Fellows courses, and community bans. Consequences will depend on severity and are at the discretion of the conduct review panel.
 
 ### Harassment
 
@@ -59,13 +60,13 @@ Harassment includes, but is not limited to:
 - Publication of non-harassing private communication
 - Sabotage of someone else's work or intentionally hindering someone else's performance
 
-We encourage everyone to participate and are committed to building a community for all. Although we will fail at times, we seek to treat everyone both as fairly and equally as possible. Whenever a participant has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully, and to do our best to right the wrong.
+We encourage everyone to participate and are committed to building a community for all. We seek to treat everyone both as fairly and equitably as possible. Whenever a participant has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully, and to do our best to right the wrong.
 
 ## Examples
 
-We don't require students to participate in formal conduct training. Rather, we rely on common sense and a commitment to follow these guidelines. To provide greater clarity, here are some examples of how this should be interpreted:
+Here are some guidelines on acceptable conduct:
 
-- A high-five is most welcome, as both parties are opting in. Avoid surprise hugs, back rubs, and general one-directional physical contact.
+- A mutual high-five is most welcome, as both parties are opting in. Avoid surprise hugs, back rubs, and general one-directional physical contact.
 - If someone solicits feedback, focus on the material. Do not comment on physical appearance.
 - In a learning environment, you'll find you have knowledge or insight someone else has not yet attained. Do not make others feel bad for not yet learning what you may find obvious. Avoid statements like "You haven't heard of Foo library?!?!" or, "Uh, obviously, you should just concat the strings."
 - Our community constitutes people from a wide array of backgrounds. This is a great strength. Talk to people about their backgrounds and histories as a learner and a listener. "Tell me more about that," is a better option than, "Well, that's not what I experienced."
@@ -73,15 +74,7 @@ We don't require students to participate in formal conduct training. Rather, we 
 
 ## Reporting Issues
 
-Our community prioritizes marginalized people’s safety over privileged people’s comfort. We will not act on complaints regarding:
-
-- ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
-- Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you”
-- Refusal to explain or debate social justice concepts
-- Communicating in a ‘tone’ you don’t find congenial
-- Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
-
-If you experience or witness unacceptable behavior&mdash;or have any other concerns&mdash;please report it by contacting us via conduct@codefellows.com, or email the Campus Director. All reports will be handled with discretion. In your report please include:
+Our community prioritizes marginalized people’s safety over privileged people’s comfort. We work to protect the psychological and physical safety of all members. If you experience or witness unacceptable behavior constituting a code of conduct violation or have any other code of conduct concerns, please report it by contacting us via conduct@codefellows.com, or email the Campus Director. All reports will be handled with discretion. In your report please include:
 
 - Your contact information.
 - Names (real, nicknames, or pseudonyms) of any individuals involved. If there are additional witnesses, please include them as well.
