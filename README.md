@@ -60,7 +60,7 @@ Harassment includes, but is not limited to:
 - Publication of non-harassing private communication
 - Sabotage of someone else's work or intentionally hindering someone else's performance
 
-We encourage everyone to participate and are committed to building a community for all. We seek to treat everyone both as fairly and equally as possible. Whenever a participant has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully, and to do our best to right the wrong.
+We encourage everyone to participate and are committed to building a community for all. We seek to treat everyone both as fairly and equitably as possible. Whenever a participant has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully, and to do our best to right the wrong.
 
 ## Examples
 
