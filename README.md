@@ -33,7 +33,7 @@ Please note: an online code repository that has no license is presumed to be clo
 
 ### Plagiarism
 
-Plagiarism is the re-use of someone else's code, without the permission or license of the author. Claiming someone else's work as your own is disrespectful to the author and to your learning process. "Cargo culting," or utilizing the techniques of another without applying your own thinking, is also considered plagiarism.
+Plagiarism is the re-use of someone else's work (eg: any code, writing, assignment solution, etc), without the permission or license of the author. Claiming someone else's work as your own is disrespectful to the author and to your learning process. "Cargo culting," or utilizing the techniques of another without applying your own thinking, is also considered plagiarism.
 
 Violating the terms of a license in a professional setting can result in lawsuits and endanger businesses. Doing so in the classroom can result in loss of assignment points, bad references from instructors, removal from all Code Fellows courses, and community bans. Consequences will depend on severity and are at the discretion of the conduct review panel.
 
