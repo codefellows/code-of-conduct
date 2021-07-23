@@ -66,7 +66,7 @@ We encourage everyone to participate and are committed to building a community f
 
 Here are some guidelines on acceptable conduct:
 
-- A high-five is most welcome, as both parties are opting in. Avoid surprise hugs, back rubs, and general one-directional physical contact.
+- A mutual high-five is most welcome, as both parties are opting in. Avoid surprise hugs, back rubs, and general one-directional physical contact.
 - If someone solicits feedback, focus on the material. Do not comment on physical appearance.
 - In a learning environment, you'll find you have knowledge or insight someone else has not yet attained. Do not make others feel bad for not yet learning what you may find obvious. Avoid statements like "You haven't heard of Foo library?!?!" or, "Uh, obviously, you should just concat the strings."
 - Our community constitutes people from a wide array of backgrounds. This is a great strength. Talk to people about their backgrounds and histories as a learner and a listener. "Tell me more about that," is a better option than, "Well, that's not what I experienced."
