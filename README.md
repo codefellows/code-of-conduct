@@ -74,7 +74,7 @@ Here are some guidelines on acceptable conduct:
 
 ## Reporting Issues
 
-Our community prioritizes the psychological and physical safety of its members. If you experience or witness unacceptable behavior constituting code of conduct violations or have any other code of conduct concerns&mdash;please report it by contacting us via conduct@codefellows.com, or email the Campus Director. All reports will be handled with discretion. In your report please include:
+Our community prioritizes marginalized people’s safety over privileged people’s comfort. We work to protect the psychological and physical safety of all members. If you experience or witness unacceptable behavior constituting a code of conduct violation or have any other code of conduct concerns, please report it by contacting us via conduct@codefellows.com, or email the Campus Director. All reports will be handled with discretion. In your report please include:
 
 - Your contact information.
 - Names (real, nicknames, or pseudonyms) of any individuals involved. If there are additional witnesses, please include them as well.
