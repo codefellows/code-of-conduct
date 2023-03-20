@@ -11,10 +11,10 @@ Our community of staff, instructors, students, and alumni strives to be kind. Th
 
 While kindness can be generally understood, we recognize that kindness in a professional setting means (but is not limited to):
 
-- **Be welcoming**: Small friendly gestures go a long way. We strive to be a community who welcomes and supports people of all backgrounds and identities. This includes, but is not limited to, members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
+- **Be welcoming**: Small friendly gestures go a long way. We strive to be a community who welcomes and supports people of all backgrounds and identities. We actively seek to welcome, support, and include folks of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, neurotypicality, educational or technical level, sex, sexual orientation, gender identity and expression, age, body type, family status, political belief, religion, and mental and physical ability (knows as The Community).
 - **Be considerate**: Your words and actions will affect colleagues, so take those consequences into account when making decisions. Remember that we’re a worldwide community, so you might not be communicating in someone else’s primary language. Your work will be used by other people and you in turn will depend on the work of others. 
 - **Be respectful**: Not all of us will agree all of the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community lacking psychological safety, where people feel uncomfortable or threatened, is not a productive one. Your treatment of others shall not negatively impact other's ability to learn. Choose patience, and provide others the space needed to think and speak, giving the benefit of the doubt.
-- **Give attribution, engage honestly**: Since the quality of our work often depends on the contributions of others, we strive to give proper attribution to all sources used, including chatbots, web articles, and Q&A sites (like Stack Overflow). As members of the community, we agree to represent ourselves truthfully, to only claim work that is our own, properly attribute collaborations, and engage earnestly and honestly in all assignments.
+- **Give attribution, engage honestly**: Since the quality of our work often depends on the contributions of others, we strive to give proper attribution to all sources used, including AI tools like chatbots and code generators, web articles, and Q&A sites (like Stack Overflow). As members of the community, we agree to represent ourselves truthfully, to only claim work that is our own, properly attribute collaborations, and engage earnestly and honestly in all assignments.
 - **Be careful in the words that we choose**: We are a community of learning professionals and we conduct ourselves professionally. Be kind to others both within the community and beyond the community. Do not insult, minimize, marginalize, or put down other participants, cultures, or sub-cultures. Contribute positively to the learning environment.
 - **Be a professional**: Practice the use of professional behavior and language when interacting with the community. Your actions are a reflection of your character, and should positively reflect a high level of professional integrity. Avoid the use of slang, innuendo, and profanity.
 - **Try to understand why we disagree**: Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. It is human to err; focus on exercising healthy conflict resolution techniques whenever possible.
@@ -24,7 +24,7 @@ While kindness can be generally understood, we recognize that kindness in a prof
 
 ### Attribution
 
-We encourage an open-source work ethic, and we solve problems collaboratively. Plagiarized submissions lack meaningful original effort, citing source material, and/or permission of the original author.
+We encourage an open-source work ethic, and we solve problems collaboratively. Plagiarized submissions lack meaningful original effort, omit citing source material, and/or don't have permission of the original author.
 
 Proper attribution includes a description of what content was used or what help was given. This might look like:
 
@@ -45,7 +45,7 @@ Violating the terms of a license in a professional setting can result in lawsuit
 
 ### Harassment
 
-We share a common understanding of what constitutes harassment, as it applies to a professional setting. Although this list cannot be exhaustive, we explicitly honor diversity in age, gender, gender identity or expression, culture, ethnicity, language, national origin, neurotypicality, political beliefs, profession, race, religion, sexual orientation, socioeconomic status, and technical ability. We will not tolerate discrimination based on any of the characteristics above, including participants with disabilities.
+We share a common understanding of what constitutes harassment, as it applies to a professional setting. We explicitly honor diversity in The Community. We will not tolerate discrimination of any sort.
 
 Harassment includes, but is not limited to:
 
@@ -76,7 +76,7 @@ Here are some guidelines on acceptable conduct:
 - If someone solicits feedback, focus on the material. Do not comment on physical appearance.
 - In a learning environment, you'll find you have knowledge or insight someone else has not yet attained. Do not make others feel bad for not yet learning what you may find obvious. Avoid statements like "You haven't heard of Foo library?!?!" or, "Uh, obviously, you should just concat the strings."
 - Our community constitutes people from a wide array of backgrounds. This is a great strength. Talk to people about their backgrounds and histories as a learner and a listener. "Tell me more about that," is a better option than, "Well, that's not what I experienced."
-- Keep track of sources that help you with your assignment, whether from AI tools, Stack Overflow, blogs, Google searches, online tutorials, or elsewhere. If you'd like to use code or material you didn't create originally, at least retype the relevant portions yourself, and include a link and reference back to the original in your project's README or documentation files.
+- Keep track of sources that help you with your assignment, whether from AI tools, Stack Overflow, blogs, Google searches, online tutorials, or elsewhere. If you'd like to use code or material you didn't create originally, at least retype the relevant portions yourself, and directly reference the original source in your project's README or documentation files.
 
 ## Reporting Issues
 
