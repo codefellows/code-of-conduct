@@ -7,16 +7,16 @@ Anyone who violates this code of conduct may be immediately removed from any cur
 
 ## Community Goal: Be Kind
 
-Our community of staff, instructors, students, and alumni strives to be kind. This is the guiding principle for conducting oneself within the Code Fellows community.
+Our community of staff, instructors, students, and alumni strives to be kind. This is the guiding principle for conducting oneself within the Code Fellows community (in-person and in all virtual spaces).
 
 While kindness can be generally understood, we recognize that kindness in a professional setting means (but is not limited to):
 
-- **Be welcoming**: We strive to be a community who welcomes and supports people of all backgrounds and identities. This includes, but is not limited to, members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
+- **Be welcoming**: Small friendly gestures go a long way. We strive to be a community who welcomes and supports people of all backgrounds and identities. This includes, but is not limited to, members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
 - **Be considerate**: Any decision you take will affect users and colleagues and you should take those consequences into account when making decisions. Remember that we’re a worldwide community, so you might not be communicating in someone else’s primary language. Your work will be used by other people and you in turn will depend on the work of others. 
-- **Give attribution, engage honestly**: Since the quality of our work often depends on the contributions of others, we strive to give proper attribution. As members of the community, we agree to represent ourselves truthfully, claim only work that is our own, properly attribute collaborations, and engage earnestly and honestly in all assignments.
-- **Be respectful**: Not all of us will agree all of the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one. Your presence may not impact other's ability to learn.
-- **Be careful in the words that we choose**: We are a community of learning professionals and we conduct ourselves professionally. Be kind to others both within the community and beyond the community. Do not insult, minimize, marginalize, or put down other participants, cultures, or sub-cultures. Contribute positively to the learning environment. 
-- **Be a professional**: Practice the use of professional language when interacting with the community. Your actions are a reflection of your character, and should positively reflect a high level of professional integrity. Avoid the use of slang, innuendo, and profanity.
+- **Be respectful**: Not all of us will agree all of the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one. Your treatment of others shall not negatively impact other's ability to learn. Choose patience, and give others the benefit of the doubt.
+- **Give attribution, engage honestly**: Since the quality of our work often depends on the contributions of others, we strive to give proper attribution to all sources used, including chatbots, web articles, and Q&A sites (like Stack Overflow). As members of the community, we agree to represent ourselves truthfully, claim only work that is our own, properly attribute collaborations, and engage earnestly and honestly in all assignments.
+- **Be careful in the words that we choose**: We are a community of learning professionals and we conduct ourselves professionally. Be kind to others both within the community and beyond the community. Do not insult, minimize, marginalize, or put down other participants, cultures, or sub-cultures. Contribute positively to the learning environment.
+- **Be a professional**: Practice the use of professional behavior and language when interacting with the community. Your actions are a reflection of your character, and should positively reflect a high level of professional integrity. Avoid the use of slang, innuendo, and profanity.
 - **Try to understand why we disagree**: Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. It is human to err; focus on exercising healthy conflict resolution techniques whenever possible.
 - **Harassment and exclusionary behavior aren’t acceptable.**
 
@@ -24,27 +24,34 @@ While kindness can be generally understood, we recognize that kindness in a prof
 
 ### Attribution
 
-We encourage an open-source work ethic, and we solve problems collaboratively. The difference between properly attributed work and plagiarized submissions is found in citing source material and permission of the original author.
+We encourage an open-source work ethic, and we solve problems collaboratively. Plagiarized submissions lack meaningful original effort, citing source material, and/or permission of the original author.
 
-Proper attribution includes a description of what code was used or what help was given. A link back to the original source material or ideas should be included whenever possible. This belongs in a section titled "Attributions" of the README file for the relevant code.
+Proper attribution includes a description of what content was used or what help was given. This might look like:
+
+- The prompts you used when working with AI chatbots
+- Description of where you used AI tools that generate code or any text that's a part of your submission
+- A link back to the original source material or ideas
+- Any group members you collaborated with (their submissions should also reference you)
+
+This belongs in a section titled "Attributions" of the assignment README file or other documentation.
 
 Please note: an online code repository that has no license is presumed to be closed source and should not be used as a reference. Please include a license file in your own publicly published code.
 
 ### Plagiarism
 
-Plagiarism is the re-use of someone else's work (eg: any code, writing, assignment solution, etc), without the permission or license of the author. Claiming someone else's work as your own is disrespectful to the author and to your learning process. "Cargo culting," or utilizing the techniques of another without applying your own thinking, is also considered plagiarism.
+Plagiarism is the re-use of someone else's work (eg: any code, writing, assignment solution, etc), without the permission or license of the author. Claiming someone else's work as your own is disrespectful to the author and to your learning process. "Cargo culting," or utilizing the techniques of another or AI-generated material, without applying your own thinking, is also considered plagiarism.
 
 Violating the terms of a license in a professional setting can result in lawsuits and endanger businesses. Doing so in the classroom can result in loss of assignment points, bad references from instructors, removal from all Code Fellows courses, and community bans. Consequences will depend on severity and are at the discretion of the conduct review panel.
 
 ### Harassment
 
-We share a common understanding of what constitutes harassment, as it applies to a professional setting. Although this list cannot be exhaustive, we explicitly honor diversity in age, gender, gender identity or expression, culture, ethnicity, language, national origin, political beliefs, profession, race, religion, sexual orientation, socioeconomic status, and technical ability. We will not tolerate discrimination based on any of the protected characteristics above, including participants with disabilities.
+We share a common understanding of what constitutes harassment, as it applies to a professional setting. Although this list cannot be exhaustive, we explicitly honor diversity in age, gender, gender identity or expression, culture, ethnicity, language, national origin, neurotypicality, political beliefs, profession, race, religion, sexual orientation, socioeconomic status, and technical ability. We will not tolerate discrimination based on any of the characteristics above, including participants with disabilities.
 
 Harassment includes, but is not limited to:
 
-- Offensive comments (or "jokes") related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro-typicality, physical appearance, body size, race, age, regional discrimination, political or religious affiliation
+- Offensive comments (or "jokes") related to any of the above characteristics
 - Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment
-- Deliberate misgendering. This includes deadnaming or persistently using a pronoun that does not correctly reflect a person’s gender identity. You must address people by the name they give you when not addressing them by their username or handle.
+- Deliberate misgendering or deadnaming: This includes persistently using a pronoun that does not correctly reflect a person’s gender identity—you must address people by the name they give you when not addressing them by their username or handle
 - Physical contact and simulated physical contact (e.g., textual descriptions like “hug” or “backrub”) without consent or after a request to stop
 - Threats of violence, both physical and psychological
 - Incitement of violence towards any individual, including encouraging a person to engage in self-harm
@@ -59,7 +66,7 @@ Harassment includes, but is not limited to:
 - Publication of non-harassing private communication
 - Sabotage of someone else's work or intentionally hindering someone else's performance
 
-We encourage everyone to participate and are committed to building a community for all. We seek to treat everyone both as fairly and equitably as possible. Whenever a participant has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully, and to do our best to right the wrong.
+We encourage everyone to participate, and are committed to building a community for all. We seek to treat everyone both as fairly and equitably as possible. Whenever a participant has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully, and to do our best to right the wrong.
 
 ## Examples
 
@@ -69,7 +76,7 @@ Here are some guidelines on acceptable conduct:
 - If someone solicits feedback, focus on the material. Do not comment on physical appearance.
 - In a learning environment, you'll find you have knowledge or insight someone else has not yet attained. Do not make others feel bad for not yet learning what you may find obvious. Avoid statements like "You haven't heard of Foo library?!?!" or, "Uh, obviously, you should just concat the strings."
 - Our community constitutes people from a wide array of backgrounds. This is a great strength. Talk to people about their backgrounds and histories as a learner and a listener. "Tell me more about that," is a better option than, "Well, that's not what I experienced."
-- Copying code from Stack Overflow, blogs, Google searches, online tutorials, etc., and pasting it into your own project is considered plagiarism. If you'd like to use someone else's code, at least retype the relevant portions yourself, and include a link back to the original in your project's README file.
+- Keep track of sources that help you with your assignment, whether from AI tools, Stack Overflow, blogs, Google searches, online tutorials, or elsewhere. If you'd like to use code or material you didn't create originally, at least retype the relevant portions yourself, and include a link and reference back to the original in your project's README or documentation files.
 
 ## Reporting Issues
 
