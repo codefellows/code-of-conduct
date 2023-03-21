@@ -11,7 +11,7 @@ Our community of staff, instructors, students, and alumni strives to be kind. Th
 
 While kindness can be generally understood, we recognize that kindness in a professional setting means (but is not limited to):
 
-- **Be welcoming**: Small friendly gestures go a long way. We strive to be a community who welcomes and supports people of all backgrounds and identities. We actively seek to welcome, support, and include folks of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, neurotypicality, educational or technical level, sex, sexual orientation, gender identity and expression, age, body type, family status, political belief, religion, and mental and physical ability (knows as The Community).
+- **Be welcoming**: Small friendly gestures go a long way. We strive to be a community who welcomes and supports people of all backgrounds and identities. We actively seek to welcome, support, and include folks of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, neurotypicality, educational or technical level, sex, sexual orientation, gender identity and expression, age, body type, family status, political belief, religion, and mental and physical ability (known as The Community).
 - **Be considerate**: Your words and actions will affect colleagues, so take those consequences into account when making decisions. Remember that we’re a worldwide community, so you might not be communicating in someone else’s primary language. Your work will be used by other people and you in turn will depend on the work of others. 
 - **Be respectful**: Not all of us will agree all of the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community lacking psychological safety, where people feel uncomfortable or threatened, is not a productive one. Your treatment of others shall not negatively impact other's ability to learn. Choose patience, and provide others the space needed to think and speak, giving the benefit of the doubt.
 - **Give attribution, engage honestly**: Since the quality of our work often depends on the contributions of others, we strive to give proper attribution to all sources used, including AI tools like chatbots and code generators, web articles, and Q&A sites (like Stack Overflow). As members of the community, we agree to represent ourselves truthfully, to only claim work that is our own, properly attribute collaborations, and engage earnestly and honestly in all assignments.
@@ -49,7 +49,7 @@ We share a common understanding of what constitutes harassment, as it applies to
 
 Harassment includes, but is not limited to:
 
-- Offensive comments (or "jokes") related to any of the above characteristics
+- Offensive comments or "jokes" at the expense of others, or demeaning who they are or their background
 - Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment
 - Deliberate misgendering or deadnaming: This includes persistently using a pronoun that does not correctly reflect a person’s gender identity—you must address people by the name they give you when not addressing them by their username or handle
 - Physical contact and simulated physical contact (e.g., textual descriptions like “hug” or “backrub”) without consent or after a request to stop
